@@ -1,2 +1,2 @@
-# kinkat
-first three letters of first/ last name
+# hello-world
+first web-page
